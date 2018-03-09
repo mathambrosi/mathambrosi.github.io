@@ -3059,7 +3059,7 @@
 			}
 
 				header.major br {
-					display: none;
+					display: inline-block;
 				}
 
 				header.major p {
@@ -3071,7 +3071,7 @@
 			}
 
 				footer.major br {
-					display: none;
+					display: inline-block;
 				}
 
 		/* List */
@@ -3261,7 +3261,7 @@
 			}
 
 				#header br {
-					display: none;
+					display: inline-block;
 				}
 
 	}
