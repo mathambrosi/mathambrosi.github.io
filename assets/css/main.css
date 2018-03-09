@@ -107,12 +107,6 @@
 		font: inherit;
 		vertical-align: baseline;
 	}
-	.fa-desktop {
-	font-size: 5em;
-	}
-	.fa-signal {
-	font-size: 5em;
-	}
 	article, aside, details, figcaption, figure, footer, header, hgroup, menu, nav, section {
 		display: block;
 	}
